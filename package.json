@@ -1,0 +1,11 @@
+{
+  "name": "react21nov22",
+  "version": "1.0.0",
+  "description": "React Js course for beginers ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ibrahima MOUNKORO",
+  "license": "MIT"
+}
